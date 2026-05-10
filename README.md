@@ -1,17 +1,17 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AlejandroTatum&style=for-the-badge&color=b68acb&label=Profile+Views)
-![Public Repositories](https://img.shields.io/badge/Public%20Repos-4-b68acb?style=for-the-badge&logo=github&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-b68acb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/)
-![Open to Remote Internship](https://img.shields.io/badge/Open%20to-Remote%20Internship-8163D6?style=for-the-badge&labelColor=0a0a0f)
+![Profile Views](https://komarev.com/ghpvc/?username=AlejandroTatum&style=for-the-badge&color=22c55e&label=Profile+Views)
+![Public Repositories](https://img.shields.io/badge/Public%20Repos-4-22c55e?style=for-the-badge&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-22c55e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/)
+![Open to Remote Internship](https://img.shields.io/badge/Open%20to-Remote%20Internship-16a34a?style=for-the-badge&labelColor=0a0a0f)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlejandroTatum/AlejandroTatum/output/snake-violet.svg?v=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlejandroTatum/AlejandroTatum/output/snake-violet.svg?v=1" />
-  <img alt="🐍 Snake animation eating my contributions" src="https://raw.githubusercontent.com/AlejandroTatum/AlejandroTatum/output/snake-violet.svg?v=1" width="98%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlejandroTatum/AlejandroTatum/output/snake-green.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlejandroTatum/AlejandroTatum/output/snake-green.svg?v=1" />
+  <img alt="🐍 Snake animation eating my contributions" src="https://raw.githubusercontent.com/AlejandroTatum/AlejandroTatum/output/snake-green.svg?v=1" width="98%" />
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=8163D6&center=true&vCenter=true&width=650&lines=Computer+Science+Student+from+Ecuador;Backend+%26+Full-Stack+Development+Learner;Building+fundamentals%2C+then+real+products;Open+to+remote+programming+internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=16a34a&center=true&vCenter=true&width=650&lines=Computer+Science+Student+from+Ecuador;Backend+%26+Full-Stack+Development+Learner;Building+fundamentals%2C+then+real+products;Open+to+remote+programming+internships" alt="Typing SVG" />
 
 </div>
 
@@ -103,19 +103,19 @@ I'm building strong foundations to grow as a **backend** and **full-stack** deve
 <tr>
 <td align="center">
   <a href="https://github.com/AlejandroTatum">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlejandroTatum&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=c084fc&icon_color=8163D6&text_color=c4b5d4&ring_color=c084fc" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlejandroTatum&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=22c55e&icon_color=16a34a&text_color=bbf7d0&ring_color=22c55e" alt="GitHub Stats" height="180"/>
   </a>
 </td>
 <td align="center">
   <a href="https://github.com/AlejandroTatum">
-    <img src="https://streak-stats.demolab.com?user=AlejandroTatum&hide_border=true&background=0a0a0f&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&stroke=8163D6&sideLabels=c4b5d4&dates=c4b5d4&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" height="180"/>
+    <img src="https://streak-stats.demolab.com?user=AlejandroTatum&hide_border=true&background=0a0a0f&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&stroke=16a34a&sideLabels=bbf7d0&dates=bbf7d0&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" height="180"/>
   </a>
 </td>
 </tr>
 <tr>
 <td align="center">
   <a href="https://github.com/AlejandroTatum">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlejandroTatum&layout=compact&hide_border=true&include_all_commits=true&count_private=true&langs_count=8&bg_color=0a0a0f&title_color=c084fc&text_color=c4b5d4" alt="Top Languages" height="180"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlejandroTatum&layout=compact&hide_border=true&include_all_commits=true&count_private=true&langs_count=8&bg_color=0a0a0f&title_color=22c55e&text_color=bbf7d0" alt="Top Languages" height="180"/>
   </a>
 </td>
 <td align="center">
@@ -167,9 +167,9 @@ about_me = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/)
-[![GitHub](https://img.shields.io/badge/-GitHub-6a0dad?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlejandroTatum)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-6a0dad?style=for-the-badge&logo=vercel&logoColor=white)](https://alejandrotatum.github.io/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-15803d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/)
+[![GitHub](https://img.shields.io/badge/-GitHub-15803d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlejandroTatum)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-15803d?style=for-the-badge&logo=vercel&logoColor=white)](https://alejandrotatum.github.io/)
 
 <img src="https://i.gifer.com/2QvG.gif" alt="Wave GIF" width="40"/>
 
@@ -179,6 +179,6 @@ about_me = {
 
 ---
 
-<sub>💜 Made with <code>discipline</code> & <code>curiosity</code> in Loja, Ecuador · <i>Thanks for stopping by!</i></sub>
+<sub>💚 Made with <code>discipline</code> & <code>curiosity</code> in Loja, Ecuador · <i>Thanks for stopping by!</i></sub>
 
 </div>
