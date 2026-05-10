@@ -1,42 +1,184 @@
-# Hola, soy Alejandro Padilla 👋
+<div align="center">
 
-Soy estudiante de **Computación en la Universidad Nacional de Loja**, enfocado en fundamentos de programación, backend y desarrollo full-stack.
+![Profile Views](https://komarev.com/ghpvc/?username=AlejandroTatum&style=for-the-badge&color=b68acb&label=Profile+Views)
+![Public Repositories](https://img.shields.io/badge/Public%20Repos-4-b68acb?style=for-the-badge&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-b68acb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/)
+![Open to Remote Internship](https://img.shields.io/badge/Open%20to-Remote%20Internship-8163D6?style=for-the-badge&labelColor=0a0a0f)
 
-Busco una **práctica remota de programación** donde pueda aprender en un entorno real, aportar con responsabilidad y seguir creciendo como desarrollador junior.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlejandroTatum/AlejandroTatum/output/snake-violet.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlejandroTatum/AlejandroTatum/output/snake-violet.svg?v=1" />
+  <img alt="🐍 Snake animation eating my contributions" src="https://raw.githubusercontent.com/AlejandroTatum/AlejandroTatum/output/snake-violet.svg?v=1" width="98%" />
+</picture>
 
-## Sobre mí
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=8163D6&center=true&vCenter=true&width=650&lines=Computer+Science+Student+from+Ecuador;Backend+%26+Full-Stack+Development+Learner;Building+fundamentals%2C+then+real+products;Open+to+remote+programming+internships" alt="Typing SVG" />
 
-- 🎓 Estudiante de Computación — Universidad Nacional de Loja
-- 🌎 Ecuador · Disponible para modalidad remota
-- 💻 Interés principal: backend y full-stack
-- 🧠 Fundamentos: Java, estructuras de datos, SQL, Git y Docker
-- 📚 Aprendiendo: TypeScript, React, Next.js, APIs y bases de datos
+</div>
 
-## Proyectos destacados
+I'm **Alejandro Padilla**, a Computer Science student from **Ecuador** studying at the **Universidad Nacional de Loja**.
 
-### [AgendaInventarioInteligentes](https://github.com/AlejandroTatum/AgendaInventarioInteligentes)
+I'm building strong foundations to grow as a **backend** and **full-stack** developer, with interest in real projects, maintainable code, databases, deployment, and continuous learning.
 
-Proyecto académico en Java para gestionar citas médicas, pacientes e inventario hospitalario usando estructuras de datos, algoritmos de búsqueda, algoritmos de ordenamiento y datasets CSV.
+- 🎯 Looking for a **remote programming internship** or first **junior remote opportunity**
+- 🧠 Focused on fundamentals: **programming, data structures, SQL, Git, Docker and deployment**
+- 🌱 Currently learning **TypeScript, React, Next.js, APIs and PostgreSQL**
+- 🌎 English level: **B1**, able to read technical documentation and communicate basic ideas
+- ⚡ Mindset: build solid foundations first, then build real products
 
-**Stack:** Java 21 · Maven · CSV · Estructuras de datos · Búsqueda · Ordenamiento
+---
 
-### [AlgoritmosDeBusqueda](https://github.com/AlejandroTatum/AlgoritmosDeBusqueda)
+## $ tech-stack
 
-Proyecto académico en Java para implementar y comparar algoritmos de búsqueda sobre arreglos y listas simplemente enlazadas, usando datasets CSV y validación de casos borde.
+<div align="center">
 
-**Stack:** Java 21 · Maven · CSV · Arrays · Listas enlazadas · Búsqueda binaria
+<table>
+<tr>
+<td align="center" width="50%">
 
-## Tecnologías
+**`$ languages`**
 
-![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-Learning-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,ts,js,html,css&theme=dark" />
 
-## Contacto
+</td>
+<td align="center" width="50%">
 
-- 💼 LinkedIn: [Alejandro Emanuel Padilla Espinoza](https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/)
-- 🐙 GitHub: [AlejandroTatum](https://github.com/AlejandroTatum)
-- 🌐 Portafolio: [alejandrotatum.github.io](https://alejandrotatum.github.io/)
+**`$ frameworks`**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**`$ databases`**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+
+</td>
+<td align="center" width="50%">
+
+**`$ tools`**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,maven,vscode&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## $ featured-projects
+
+<table>
+<tr>
+<td width="50%">
+
+[**AgendaInventarioInteligentes**](https://github.com/AlejandroTatum/AgendaInventarioInteligentes)
+> Academic Java project for managing medical appointments, patients, and hospital inventory using CSV datasets, data structures, search algorithms, and sorting algorithms.
+
+`Java` `Maven` `CSV` `Data Structures` `Search` `Sorting`
+
+</td>
+<td width="50%">
+
+[**AlgoritmosDeBusqueda**](https://github.com/AlejandroTatum/AlgoritmosDeBusqueda)
+> Academic Java project focused on implementing and comparing search algorithms over arrays and singly linked lists using CSV datasets and edge-case validation.
+
+`Java` `Maven` `CSV` `Arrays` `Linked Lists` `Binary Search`
+
+</td>
+</tr>
+</table>
+
+---
+
+## $ github-stats
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+  <a href="https://github.com/AlejandroTatum">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlejandroTatum&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=c084fc&icon_color=8163D6&text_color=c4b5d4&ring_color=c084fc" alt="GitHub Stats" height="180"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/AlejandroTatum">
+    <img src="https://streak-stats.demolab.com?user=AlejandroTatum&hide_border=true&background=0a0a0f&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&stroke=8163D6&sideLabels=c4b5d4&dates=c4b5d4&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" height="180"/>
+  </a>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/AlejandroTatum">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlejandroTatum&layout=compact&hide_border=true&include_all_commits=true&count_private=true&langs_count=8&bg_color=0a0a0f&title_color=c084fc&text_color=c4b5d4" alt="Top Languages" height="180"/>
+  </a>
+</td>
+<td align="center">
+  <img src="https://i.gifer.com/8uSj.gif" alt="Coding GIF" height="180"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+### $ trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlejandroTatum&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
+</div>
+
+---
+
+## $ random-quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+</div>
+
+---
+
+## $ about-me --in-code
+
+```python
+about_me = {
+    "name": "Alejandro Padilla",
+    "country": "Ecuador 🇪🇨",
+    "city": "Loja",
+    "role": "Computer Science Student",
+    "education": "Computación — Universidad Nacional de Loja",
+    "focus": ["Backend", "Full-Stack", "Databases", "Deployment"],
+    "main_languages": ["Java", "SQL", "TypeScript"],
+    "learning": ["React", "Next.js", "Docker", "PostgreSQL", "APIs"],
+    "projects": ["AgendaInventarioInteligentes", "AlgoritmosDeBusqueda"],
+    "english": "B1",
+    "open_to": "remote programming internships",
+    "mindset": "fundamentals first, real products next"
+}
+```
+
+---
+
+## $ connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/)
+[![GitHub](https://img.shields.io/badge/-GitHub-6a0dad?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlejandroTatum)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6a0dad?style=for-the-badge&logo=vercel&logoColor=white)](https://alejandrotatum.github.io/)
+
+<img src="https://i.gifer.com/2QvG.gif" alt="Wave GIF" width="40"/>
+
+</div>
+
+<div align="center">
+
+---
+
+<sub>💜 Made with <code>discipline</code> & <code>curiosity</code> in Loja, Ecuador · <i>Thanks for stopping by!</i></sub>
+
+</div>
