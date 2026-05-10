@@ -65,8 +65,6 @@ Estoy construyendo un portafolio más sólido con proyectos pequeños pero bien 
 
 ## Contacto
 
-## Contacto
-
 - 📧 Email: [alejandro.padilla@unl.edu.ec](mailto:alejandro.padilla@unl.edu.ec)
 - 💼 LinkedIn: [Alejandro Emanuel Padilla Espinoza](https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/)
 - 🐙 GitHub: [AlejandroTatum](https://github.com/AlejandroTatum)
