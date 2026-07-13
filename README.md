@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>AI &amp; Automation Engineer</h1>
+  <img src="assets/title-lockup.svg" alt="AI &amp; Automation Engineer" width="720" />
   <p><strong>Alejandro Padilla</strong> · Ecuador · Remote worldwide</p>
   <img src="assets/hero-pixel.png" alt="Pixel-art automation workspace connecting documents, AI models, code, databases, and backend infrastructure" width="100%" />
 </div>
