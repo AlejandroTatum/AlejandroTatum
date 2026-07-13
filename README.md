@@ -1,72 +1,71 @@
-# Alejandro Padilla
+<div align="center">
+  <img src="assets/hero.svg" alt="Alejandro Padilla, Remote AI and Automation Engineer" width="100%" />
+</div>
 
-**Automation, AI agents, backend, and full-stack software**
+<div align="center">
+  <a href="https://alejandrotatum.github.io/"><strong>PORTFOLIO</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/"><strong>LINKEDIN</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/AlejandroTatum?tab=repositories"><strong>ALL WORK</strong></a>
+</div>
 
-I build practical software that turns repetitive work and business requirements into reliable workflows, APIs, and web applications. My focus is on automation and AI-assisted systems, supported by backend engineering, data processing, and clear user-facing experiences.
+<br />
 
-Based in Ecuador and available for **freelance projects** and **remote software roles**.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>AI + AUTOMATION</strong><br />
+      Agents, repeatable workflows, data processing, and practical AI-assisted systems.
+    </td>
+    <td width="33%" valign="top">
+      <strong>BACKEND SYSTEMS</strong><br />
+      APIs, databases, validation pipelines, and maintainable business logic.
+    </td>
+    <td width="33%" valign="top">
+      <strong>FULL-STACK DELIVERY</strong><br />
+      Responsive products that connect reliable engineering with clear user experiences.
+    </td>
+  </tr>
+</table>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alejandrotatum.github.io-15803d?style=flat-square&logo=vercel&logoColor=white)](https://alejandrotatum.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_Padilla-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/)
-[![GitHub](https://img.shields.io/badge/GitHub-AlejandroTatum-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlejandroTatum)
+## Selected Work
 
-## What I Build
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://yolo-complexity-lab-unl.streamlit.app/"><img src="assets/project-yolo.svg" alt="YOLO Complexity Lab project card" width="100%" /></a><br />
+      <a href="https://yolo-complexity-lab-unl.streamlit.app/"><strong>Live demo</strong></a> · <a href="https://github.com/AlejandroTatum/yolo-complexity-lab"><strong>Source</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://el-horno-del-pinguino-landing-page.onrender.com/"><img src="assets/project-horno.svg" alt="El Horno del Pingüino project card" width="100%" /></a><br />
+      <a href="https://el-horno-del-pinguino-landing-page.onrender.com/"><strong>Live demo</strong></a> · Private business source
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AlejandroTatum/academic-report-automation"><img src="assets/project-reports.svg" alt="Academic Report Automation project card" width="100%" /></a><br />
+      <a href="https://github.com/AlejandroTatum/academic-report-automation"><strong>Explore source</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AlejandroTatum/AlejandroTatum.github.io"><img src="assets/project-portfolio.svg" alt="AlejandroTatum.github.io project card" width="100%" /></a><br />
+      <a href="https://alejandrotatum.github.io/"><strong>Live site</strong></a> · <a href="https://github.com/AlejandroTatum/AlejandroTatum.github.io"><strong>Source</strong></a>
+    </td>
+  </tr>
+</table>
 
-- Workflow automation and AI-agent solutions for repetitive business processes
-- Backend services, APIs, database-backed systems, and data-processing tools
-- Full-stack web applications with responsive, accessible interfaces
-- Maintainable solutions designed around the real problem, not unnecessary complexity
+More evidence: [Hospital Appointment Inventory](https://github.com/AlejandroTatum/hospital-appointment-inventory) · [SIGED](https://github.com/AlejandroTatum/siged), an academic teacher-test project · [all repositories](https://github.com/AlejandroTatum?tab=repositories)
 
-## Featured Work
+## Engineering Toolkit
 
-### YOLO Complexity Lab
+`Python` · `TypeScript` · `JavaScript` · `Java` · `Next.js` · `React` · `Node.js` · `PostgreSQL` · `Docker` · `Git` · `Linux`
 
-An end-to-end computer vision lab I implemented to explore YOLO model complexity, inference behavior, and deployment tradeoffs through an interactive Streamlit interface.
+---
 
-[Live demo](https://yolo-complexity-lab-unl.streamlit.app/) · [Source code](https://github.com/AlejandroTatum/yolo-complexity-lab)
-
-`Python` `Streamlit` `YOLO` `Computer Vision` `Model Analysis`
-
-> The free-tier deployment may require startup time after inactivity.
-
-### El Horno del Pingüino
-
-An end-to-end frontend implementation I delivered for a local bakery, presenting its catalog, business-order offering, and direct WhatsApp conversion path in a responsive customer experience.
-
-[Live demo](https://el-horno-del-pinguino-landing-page.onrender.com/)
-
-`Frontend` `Responsive Design` `Business Landing Page` `WhatsApp` `Render`
-
-> Private business repository. I was responsible for the end-to-end frontend implementation; source code is not publicly linked. The free-tier deployment may require startup time.
-
-### [Academic Report Automation](https://github.com/AlejandroTatum/academic-report-automation)
-
-Python tooling for reproducible academic reports, including HTML/PDF generation, reference and report validation, and automated visual production.
-
-`Python` `Automation` `HTML/PDF` `Validation` `Data Visualization`
-
-### [AlejandroTatum.github.io](https://github.com/AlejandroTatum/AlejandroTatum.github.io)
-
-A bilingual, responsive portfolio presenting software capabilities and project evidence for international clients and engineering teams.
-
-`Next.js` `TypeScript` `React` `Tailwind CSS`
-
-### [Hospital Appointment Inventory](https://github.com/AlejandroTatum/hospital-appointment-inventory)
-
-A Java CLI for processing hospital-style CSV data across appointments, patients, and inventory, using structured data operations, search, and sorting.
-
-`Java` `Maven` `CSV` `Data Structures` `Search and Sorting`
-
-### [SIGED](https://github.com/AlejandroTatum/siged)
-
-An academic teacher-test project exploring a SIGED system through structured specifications and a Django and React implementation.
-
-`Django` `React` `TypeScript` `Specifications` `Academic Project`
-
-## Core Stack
-
-`TypeScript` `JavaScript` `Python` `Java` `Next.js` `React` `Node.js` `PostgreSQL` `Docker` `Git` `Linux`
-
-## Work With Me
-
-If you need a workflow automated, an AI-agent concept turned into a usable product, or a software engineer for a remote team, connect with me on [LinkedIn](https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/) or review my work at [alejandrotatum.github.io](https://alejandrotatum.github.io/).
+<div align="center">
+  <h3>Build useful systems. Remove repetitive work.</h3>
+  <p>Open to remote AI &amp; Automation Engineer roles worldwide.<br />Also available for selected freelance automation and software projects.</p>
+  <a href="https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/"><strong>Connect on LinkedIn</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://alejandrotatum.github.io/"><strong>View portfolio</strong></a>
+</div>
