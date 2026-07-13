@@ -31,7 +31,7 @@ A bilingual, responsive portfolio presenting software capabilities and project e
 
 `Next.js` `TypeScript` `React` `Tailwind CSS`
 
-### [AgendaInventarioInteligentes](https://github.com/AlejandroTatum/AgendaInventarioInteligentes)
+### [Hospital Appointment Inventory](https://github.com/AlejandroTatum/hospital-appointment-inventory)
 
 A Java CLI for processing hospital-style CSV data across appointments, patients, and inventory, using structured data operations, search, and sorting.
 
