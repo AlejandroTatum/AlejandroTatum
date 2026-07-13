@@ -25,24 +25,27 @@
     <td width="50%" valign="top">
       <a href="https://yolo-complexity-lab-unl.streamlit.app/"><img src="assets/project-yolo-pixel.png" alt="Pixel-art computer vision lab detecting an apple, robot, and wrench" width="100%" /></a><br />
       <strong>YOLO Complexity Lab</strong><br />
-      <a href="https://yolo-complexity-lab-unl.streamlit.app/"><strong>Live demo</strong></a> · <a href="https://github.com/AlejandroTatum/yolo-complexity-lab"><strong>Source</strong></a>
+      <a href="https://yolo-complexity-lab-unl.streamlit.app/"><img src="assets/button-live-demo.svg" alt="Open YOLO Complexity Lab live demo" height="32" /></a>&nbsp;
+      <a href="https://github.com/AlejandroTatum/yolo-complexity-lab"><img src="assets/button-source.svg" alt="View YOLO Complexity Lab source" height="32" /></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://el-horno-del-pinguino-landing-page.onrender.com/"><img src="assets/project-horno-pixel.png" alt="Pixel-art bakery storefront connecting its product catalog to a mobile order" width="100%" /></a><br />
       <strong>El Horno del Pingüino</strong><br />
-      <a href="https://el-horno-del-pinguino-landing-page.onrender.com/"><strong>Live demo</strong></a> · Private business source
+      <a href="https://el-horno-del-pinguino-landing-page.onrender.com/"><img src="assets/button-live-demo.svg" alt="Open El Horno del Pingüino live demo" height="32" /></a>&nbsp;
+      <img src="assets/button-private-source.svg" alt="Private source repository" height="32" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/AlejandroTatum/academic-report-automation"><img src="assets/project-reports-pixel.png" alt="Pixel-art pipeline transforming source material into a validated illustrated report" width="100%" /></a><br />
       <strong>Academic Report Automation</strong><br />
-      <a href="https://github.com/AlejandroTatum/academic-report-automation"><strong>Explore source</strong></a>
+      <a href="https://github.com/AlejandroTatum/academic-report-automation"><img src="assets/button-view-source.svg" alt="View Academic Report Automation source" height="32" /></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AlejandroTatum/AlejandroTatum.github.io"><img src="assets/project-portfolio-pixel.png" alt="Pixel-art responsive portfolio displayed across desktop, tablet, and mobile screens" width="100%" /></a><br />
       <strong>AlejandroTatum.github.io</strong><br />
-      <a href="https://alejandrotatum.github.io/"><strong>Live site</strong></a> · <a href="https://github.com/AlejandroTatum/AlejandroTatum.github.io"><strong>Source</strong></a>
+      <a href="https://alejandrotatum.github.io/"><img src="assets/button-live-site.svg" alt="Open AlejandroTatum.github.io live site" height="32" /></a>&nbsp;
+      <a href="https://github.com/AlejandroTatum/AlejandroTatum.github.io"><img src="assets/button-source.svg" alt="View AlejandroTatum.github.io source" height="32" /></a>
     </td>
   </tr>
 </table>
