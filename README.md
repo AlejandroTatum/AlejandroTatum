@@ -37,6 +37,12 @@ A Java CLI for processing hospital-style CSV data across appointments, patients,
 
 `Java` `Maven` `CSV` `Data Structures` `Search and Sorting`
 
+### [SIGED](https://github.com/AlejandroTatum/siged)
+
+An academic teacher-test project exploring a SIGED system through structured specifications and a Django and React implementation.
+
+`Django` `React` `TypeScript` `Specifications` `Academic Project`
+
 ## Core Stack
 
 `TypeScript` `JavaScript` `Python` `Java` `Next.js` `React` `Node.js` `PostgreSQL` `Docker` `Git` `Linux`
