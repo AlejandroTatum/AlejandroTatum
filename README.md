@@ -19,6 +19,26 @@ Based in Ecuador and available for **freelance projects** and **remote software 
 
 ## Featured Work
 
+### YOLO Complexity Lab
+
+An end-to-end computer vision lab I implemented to explore YOLO model complexity, inference behavior, and deployment tradeoffs through an interactive Streamlit interface.
+
+[Live demo](https://yolo-complexity-lab-unl.streamlit.app/) · [Source code](https://github.com/AlejandroTatum/yolo-complexity-lab)
+
+`Python` `Streamlit` `YOLO` `Computer Vision` `Model Analysis`
+
+> The free-tier deployment may require startup time after inactivity.
+
+### El Horno del Pingüino
+
+An end-to-end frontend implementation I delivered for a local bakery, presenting its catalog, business-order offering, and direct WhatsApp conversion path in a responsive customer experience.
+
+[Live demo](https://el-horno-del-pinguino-landing-page.onrender.com/)
+
+`Frontend` `Responsive Design` `Business Landing Page` `WhatsApp` `Render`
+
+> Private business repository. I was responsible for the end-to-end frontend implementation; source code is not publicly linked. The free-tier deployment may require startup time.
+
 ### [Academic Report Automation](https://github.com/AlejandroTatum/academic-report-automation)
 
 Python tooling for reproducible academic reports, including HTML/PDF generation, reference and report validation, and automated visual production.
