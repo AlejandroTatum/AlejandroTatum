@@ -30,7 +30,7 @@
       <a href="https://el-horno-del-pinguino-landing-page.onrender.com/"><img src="assets/project-horno-pixel.png" alt="Pixel-art bakery storefront connecting its product catalog to a mobile order" width="100%" /></a><br />
       <strong>El Horno del Pingüino</strong><br />
       <a href="https://el-horno-del-pinguino-landing-page.onrender.com/"><img src="assets/button-live-demo.svg" alt="Open El Horno del Pingüino live demo" height="32" /></a>&nbsp;
-      <kbd>PRIVATE SOURCE</kbd>
+      <a href="#private-source"><img src="assets/button-private-source.svg" alt="Read why the El Horno del Pingüino source is private" height="32" /></a>
     </td>
   </tr>
   <tr>
@@ -47,6 +47,8 @@
     </td>
   </tr>
 </table>
+
+<a name="private-source"></a><sub><strong>Private source:</strong> This business source is private; only the live implementation is public.</sub>
 
 More evidence: [Hospital Appointment Inventory](https://github.com/AlejandroTatum/hospital-appointment-inventory) · [SIGED](https://github.com/AlejandroTatum/siged), an academic teacher-test project · [all repositories](https://github.com/AlejandroTatum?tab=repositories)
 
