@@ -1,9 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="230" viewBox="0 0 560 230" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300" role="img" aria-labelledby="title desc">
   <title id="title">El Horno del Pingüino</title><desc id="desc">Responsive bakery landing page and conversion experience.</desc>
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8FE3C2"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
-  <rect width="560" height="230" rx="20" fill="#0B1020"/><rect x="1" y="1" width="558" height="228" rx="19" fill="none" stroke="#A78BFA" stroke-opacity=".35"/>
-  <rect x="34" y="30" width="129" height="28" rx="14" fill="#151B2E"/><text x="51" y="49" fill="#A78BFA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">CLIENT DELIVERY</text>
-  <text x="34" y="103" fill="#F3F7FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="29" font-weight="750">El Horno del Pingüino</text>
-  <text x="34" y="137" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Responsive catalog and WhatsApp conversion</text><text x="34" y="160" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">experience for a local bakery.</text>
-  <text x="34" y="202" fill="url(#g)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">FRONTEND  ·  RESPONSIVE  ·  WHATSAPP</text>
+  <rect width="560" height="300" rx="26" fill="#FFD6A5"/><circle cx="72" cy="50" r="86" fill="#FFC8DD" opacity=".72"/>
+  <path d="M0 189 C98 150 162 210 254 176 C340 145 429 196 560 147 V224 H0Z" fill="#B8F2E6"/>
+  <ellipse cx="189" cy="126" rx="61" ry="82" fill="#2D2A3E"/>
+  <ellipse cx="189" cy="141" rx="40" ry="56" fill="#FFC8DD"/>
+  <circle cx="168" cy="99" r="5" fill="#BDE0FE"/><circle cx="210" cy="99" r="5" fill="#BDE0FE"/>
+  <path d="M181 112 L198 112 L189 123Z" fill="#FFD6A5" stroke="#2D2A3E" stroke-width="2"/>
+  <path d="M134 131 Q103 145 116 167 M244 131 Q274 145 261 167" fill="none" stroke="#2D2A3E" stroke-width="12" stroke-linecap="round"/>
+  <path d="M305 159 C297 126 326 105 355 116 C373 87 424 97 427 134 C454 136 461 176 433 188 H322 C306 184 299 172 305 159Z" fill="#CDB4DB" stroke="#2D2A3E" stroke-width="3"/>
+  <path d="M331 127 Q343 145 331 174 M366 113 Q379 142 367 177 M401 116 Q415 145 403 177" fill="none" stroke="#2D2A3E" stroke-width="3" stroke-linecap="round"/>
+  <path d="M452 68 H510 Q525 68 525 83 V125 Q525 140 510 140 H482 L463 155 V140 H452 Q437 140 437 125 V83 Q437 68 452 68Z" fill="#B8F2E6" stroke="#2D2A3E" stroke-width="3"/>
+  <path d="M466 91 C472 113 489 122 507 112 L498 102 L489 108 C482 103 477 98 475 90 L482 84 L472 76Z" fill="#2D2A3E"/>
+  <text x="30" y="255" fill="#2D2A3E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="760">El Horno del Pingüino</text>
+  <text x="30" y="280" fill="#2D2A3E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1">CATALOG  /  RESPONSIVE  /  WHATSAPP</text>
 </svg>

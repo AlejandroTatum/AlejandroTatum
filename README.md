@@ -3,31 +3,18 @@
 </div>
 
 <div align="center">
-  <a href="https://alejandrotatum.github.io/"><strong>PORTFOLIO</strong></a>
+  <a href="https://alejandrotatum.github.io/"><strong>Portfolio</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/"><strong>LINKEDIN</strong></a>
+  <a href="https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/"><strong>LinkedIn</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/AlejandroTatum?tab=repositories"><strong>ALL WORK</strong></a>
+  <a href="https://github.com/AlejandroTatum?tab=repositories"><strong>All work</strong></a>
 </div>
 
 <br />
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>AI + AUTOMATION</strong><br />
-      Agents, repeatable workflows, data processing, and practical AI-assisted systems.
-    </td>
-    <td width="33%" valign="top">
-      <strong>BACKEND SYSTEMS</strong><br />
-      APIs, databases, validation pipelines, and maintainable business logic.
-    </td>
-    <td width="33%" valign="top">
-      <strong>FULL-STACK DELIVERY</strong><br />
-      Responsive products that connect reliable engineering with clear user experiences.
-    </td>
-  </tr>
-</table>
+<div align="center">
+  I turn repetitive processes into practical <strong>AI workflows</strong>, <strong>backend systems</strong>, and <strong>full-stack products</strong>.
+</div>
 
 ## Selected Work
 
@@ -56,14 +43,14 @@
 
 More evidence: [Hospital Appointment Inventory](https://github.com/AlejandroTatum/hospital-appointment-inventory) · [SIGED](https://github.com/AlejandroTatum/siged), an academic teacher-test project · [all repositories](https://github.com/AlejandroTatum?tab=repositories)
 
-## Engineering Toolkit
+## Toolkit
 
 `Python` · `TypeScript` · `JavaScript` · `Java` · `Next.js` · `React` · `Node.js` · `PostgreSQL` · `Docker` · `Git` · `Linux`
 
 ---
 
 <div align="center">
-  <h3>Build useful systems. Remove repetitive work.</h3>
+  <h3>Have a workflow worth improving?</h3>
   <p>Open to remote AI &amp; Automation Engineer roles worldwide.<br />Also available for selected freelance automation and software projects.</p>
   <a href="https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/"><strong>Connect on LinkedIn</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;

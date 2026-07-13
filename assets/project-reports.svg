@@ -1,9 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="230" viewBox="0 0 560 230" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300" role="img" aria-labelledby="title desc">
   <title id="title">Academic Report Automation</title><desc id="desc">Reproducible report generation and validation tooling.</desc>
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8FE3C2"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
-  <rect width="560" height="230" rx="20" fill="#0B1020"/><rect x="1" y="1" width="558" height="228" rx="19" fill="none" stroke="#8FE3C2" stroke-opacity=".35"/>
-  <rect x="34" y="30" width="102" height="28" rx="14" fill="#151B2E"/><text x="51" y="49" fill="#8FE3C2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">AUTOMATION</text>
-  <text x="34" y="103" fill="#F3F7FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="750">Academic Report Automation</text>
-  <text x="34" y="137" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Reproducible HTML/PDF generation, reference</text><text x="34" y="160" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">validation, and automated visuals.</text>
-  <text x="34" y="202" fill="url(#g)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">PYTHON  ·  VALIDATION  ·  DATA VISUALIZATION</text>
+  <rect width="560" height="300" rx="26" fill="#B8F2E6"/><circle cx="500" cy="35" r="82" fill="#FFD6A5" opacity=".8"/>
+  <path d="M55 35 H207 L250 78 V207 H55Z" fill="#FFC8DD" stroke="#2D2A3E" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M207 35 V78 H250" fill="#CDB4DB" stroke="#2D2A3E" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="80" y="79" width="83" height="25" rx="7" fill="#FFD6A5"/><text x="94" y="97" fill="#2D2A3E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800">PDF / HTML</text>
+  <path d="M82 127 H211 M82 148 H192 M82 169 H215" stroke="#2D2A3E" stroke-width="4" stroke-linecap="round" opacity=".75"/>
+  <path d="M267 120 H320 M304 104 L322 120 L304 136" fill="none" stroke="#2D2A3E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="341" y="45" width="165" height="162" rx="18" fill="#BDE0FE" stroke="#2D2A3E" stroke-width="3"/>
+  <path d="M370 174 V139 H391 V174 M402 174 V105 H423 V174 M434 174 V123 H455 V174" fill="#CDB4DB" stroke="#2D2A3E" stroke-width="2"/>
+  <circle cx="474" cy="85" r="24" fill="#FFD6A5" stroke="#2D2A3E" stroke-width="3"/>
+  <path d="M463 85 L472 94 L487 75" fill="none" stroke="#2D2A3E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M366 73 H437 M366 90 H423" stroke="#2D2A3E" stroke-width="4" stroke-linecap="round" opacity=".72"/>
+  <text x="30" y="255" fill="#2D2A3E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="760">Academic Report Automation</text>
+  <text x="30" y="280" fill="#2D2A3E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1">GENERATE  /  VISUALIZE  /  VALIDATE</text>
 </svg>
