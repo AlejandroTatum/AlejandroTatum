@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="166" height="40" viewBox="0 0 166 40" role="img" aria-labelledby="title">
-  <title id="title">Private Source</title>
-  <path d="M8 4H158V8H162V32H158V36H8V32H4V8H8Z" fill="#2D2A3E" opacity=".8"/>
-  <path d="M6 1H156V5H160V29H156V33H6V29H2V5H6Z" fill="#FFD6A5" stroke="#2D2A3E" stroke-width="2"/>
-  <path d="M17 16V12C17 7 29 7 29 12V16H33V27H13V16ZM21 16H25V12C25 10 21 10 21 12ZM21 20V24H25V20Z" fill="#2D2A3E"/>
-  <text x="42" y="23" fill="#2D2A3E" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700">PRIVATE SOURCE</text>
-</svg>

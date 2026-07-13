@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="40" viewBox="0 0 142 40" role="img" aria-labelledby="title">
+  <title id="title">LinkedIn</title>
+  <path d="M8 4H134V8H138V32H134V36H8V32H4V8H8Z" fill="#2D2A3E"/>
+  <path d="M6 1H132V5H136V29H132V33H6V29H2V5H6Z" fill="#BDE0FE" stroke="#2D2A3E" stroke-width="2"/>
+  <rect x="13" y="9" width="23" height="20" rx="2" fill="#0A66C2"/>
+  <text x="17" y="24" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="14" font-weight="700">in</text>
+  <text x="44" y="23" fill="#2D2A3E" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700">LINKEDIN</text>
+</svg>

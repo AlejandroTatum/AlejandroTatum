@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="40" viewBox="0 0 142 40" role="img" aria-labelledby="title">
+  <title id="title">All Work</title>
+  <path d="M8 4H134V8H138V32H134V36H8V32H4V8H8Z" fill="#2D2A3E"/>
+  <path d="M6 1H132V5H136V29H132V33H6V29H2V5H6Z" fill="#CDB4DB" stroke="#2D2A3E" stroke-width="2"/>
+  <path d="M13 11H22L25 14H36V27H13ZM17 18V22H21V18ZM24 18V22H28V18ZM31 18V22H34V18Z" fill="#2D2A3E"/>
+  <text x="44" y="23" fill="#2D2A3E" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700">ALL WORK</text>
+</svg>

@@ -5,11 +5,9 @@
 </div>
 
 <div align="center">
-  <a href="https://alejandrotatum.github.io/"><strong>Portfolio</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/"><strong>LinkedIn</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/AlejandroTatum?tab=repositories"><strong>All work</strong></a>
+  <a href="https://alejandrotatum.github.io/"><img src="assets/button-portfolio.svg" alt="Open Alejandro Padilla's portfolio" height="32" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/"><img src="assets/button-linkedin.svg" alt="Open Alejandro Padilla's LinkedIn profile" height="32" /></a>&nbsp;
+  <a href="https://github.com/AlejandroTatum?tab=repositories"><img src="assets/button-all-work.svg" alt="View all AlejandroTatum repositories" height="32" /></a>
 </div>
 
 <br />
@@ -32,7 +30,7 @@
       <a href="https://el-horno-del-pinguino-landing-page.onrender.com/"><img src="assets/project-horno-pixel.png" alt="Pixel-art bakery storefront connecting its product catalog to a mobile order" width="100%" /></a><br />
       <strong>El Horno del Pingüino</strong><br />
       <a href="https://el-horno-del-pinguino-landing-page.onrender.com/"><img src="assets/button-live-demo.svg" alt="Open El Horno del Pingüino live demo" height="32" /></a>&nbsp;
-      <img src="assets/button-private-source.svg" alt="Private source repository" height="32" />
+      <kbd>PRIVATE SOURCE</kbd>
     </td>
   </tr>
   <tr>
@@ -54,14 +52,15 @@ More evidence: [Hospital Appointment Inventory](https://github.com/AlejandroTatu
 
 ## Toolkit
 
-`Python` · `TypeScript` · `JavaScript` · `Java` · `Next.js` · `React` · `Node.js` · `PostgreSQL` · `Docker` · `Git` · `Linux`
+<div align="center">
+  <img src="assets/stack-board.svg" alt="Engineering toolkit: Python, TypeScript, JavaScript, Java, Next.js, React, Node.js, PostgreSQL, Docker, Git, and Linux" width="100%" />
+</div>
 
 ---
 
 <div align="center">
   <h3>Have a workflow worth improving?</h3>
   <p>Open to remote AI &amp; Automation Engineer roles worldwide.<br />Also available for selected freelance automation and software projects.</p>
-  <a href="https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/"><strong>Connect on LinkedIn</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://alejandrotatum.github.io/"><strong>View portfolio</strong></a>
+  <a href="https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/"><img src="assets/button-connect-linkedin.svg" alt="Connect with Alejandro Padilla on LinkedIn" height="34" /></a>&nbsp;
+  <a href="https://alejandrotatum.github.io/"><img src="assets/button-view-portfolio.svg" alt="View Alejandro Padilla's portfolio" height="34" /></a>
 </div>
