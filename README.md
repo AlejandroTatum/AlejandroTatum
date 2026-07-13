@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="assets/hero.svg" alt="Alejandro Padilla, Remote AI and Automation Engineer" width="100%" />
+  <h1>AI &amp; Automation Engineer</h1>
+  <p><strong>Alejandro Padilla</strong> · Ecuador · Remote worldwide</p>
+  <img src="assets/hero-pixel.png" alt="Pixel-art automation workspace connecting documents, AI models, code, databases, and backend infrastructure" width="100%" />
 </div>
 
 <div align="center">
@@ -21,21 +23,25 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://yolo-complexity-lab-unl.streamlit.app/"><img src="assets/project-yolo.svg" alt="YOLO Complexity Lab project card" width="100%" /></a><br />
+      <a href="https://yolo-complexity-lab-unl.streamlit.app/"><img src="assets/project-yolo-pixel.png" alt="Pixel-art computer vision lab detecting an apple, robot, and wrench" width="100%" /></a><br />
+      <strong>YOLO Complexity Lab</strong><br />
       <a href="https://yolo-complexity-lab-unl.streamlit.app/"><strong>Live demo</strong></a> · <a href="https://github.com/AlejandroTatum/yolo-complexity-lab"><strong>Source</strong></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://el-horno-del-pinguino-landing-page.onrender.com/"><img src="assets/project-horno.svg" alt="El Horno del Pingüino project card" width="100%" /></a><br />
+      <a href="https://el-horno-del-pinguino-landing-page.onrender.com/"><img src="assets/project-horno-pixel.png" alt="Pixel-art bakery storefront connecting its product catalog to a mobile order" width="100%" /></a><br />
+      <strong>El Horno del Pingüino</strong><br />
       <a href="https://el-horno-del-pinguino-landing-page.onrender.com/"><strong>Live demo</strong></a> · Private business source
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/AlejandroTatum/academic-report-automation"><img src="assets/project-reports.svg" alt="Academic Report Automation project card" width="100%" /></a><br />
+      <a href="https://github.com/AlejandroTatum/academic-report-automation"><img src="assets/project-reports-pixel.png" alt="Pixel-art pipeline transforming source material into a validated illustrated report" width="100%" /></a><br />
+      <strong>Academic Report Automation</strong><br />
       <a href="https://github.com/AlejandroTatum/academic-report-automation"><strong>Explore source</strong></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/AlejandroTatum/AlejandroTatum.github.io"><img src="assets/project-portfolio.svg" alt="AlejandroTatum.github.io project card" width="100%" /></a><br />
+      <a href="https://github.com/AlejandroTatum/AlejandroTatum.github.io"><img src="assets/project-portfolio-pixel.png" alt="Pixel-art responsive portfolio displayed across desktop, tablet, and mobile screens" width="100%" /></a><br />
+      <strong>AlejandroTatum.github.io</strong><br />
       <a href="https://alejandrotatum.github.io/"><strong>Live site</strong></a> · <a href="https://github.com/AlejandroTatum/AlejandroTatum.github.io"><strong>Source</strong></a>
     </td>
   </tr>
