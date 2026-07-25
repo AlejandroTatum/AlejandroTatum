@@ -27,9 +27,9 @@
       <a href="https://github.com/AlejandroTatum/yolo-complexity-lab"><img src="assets/button-source.svg" alt="View YOLO Complexity Lab source" height="32" /></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://el-horno-del-pinguino-landing-page.onrender.com/"><img src="assets/project-horno-pixel.png" alt="Pixel-art bakery storefront connecting its product catalog to a mobile order" width="100%" /></a><br />
+      <a href="https://el-horno-del-pinguino-landing-page.pages.dev/"><img src="assets/project-horno-pixel.png" alt="Pixel-art bakery storefront connecting its product catalog to a mobile order" width="100%" /></a><br />
       <strong>El Horno del Pingüino</strong><br />
-      <a href="https://el-horno-del-pinguino-landing-page.onrender.com/"><img src="assets/button-live-demo.svg" alt="Open El Horno del Pingüino live demo" height="32" /></a>&nbsp;
+      <a href="https://el-horno-del-pinguino-landing-page.pages.dev/"><img src="assets/button-in-production.svg" alt="Open El Horno del Pingüino, in production" height="32" /></a>&nbsp;
       <a href="#private-source"><img src="assets/button-private-source.svg" alt="Read why the El Horno del Pingüino source is private" height="32" /></a>
     </td>
   </tr>
@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-<a name="private-source"></a><sub><strong>Private source:</strong> This business source is private; only the live implementation is public.</sub>
+<a name="private-source"></a><sub><strong>Private source:</strong> This business source is private; only the production implementation is public.</sub>
 
 More evidence: [Hospital Appointment Inventory](https://github.com/AlejandroTatum/hospital-appointment-inventory) · [SIGED](https://github.com/AlejandroTatum/siged), an academic teacher-test project · [all repositories](https://github.com/AlejandroTatum?tab=repositories)
 
