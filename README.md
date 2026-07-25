@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/title-pixel.png" alt="AI &amp; AUTOMATION ENGINEER" width="600" />
+  <img src="assets/title-role.png" alt="FULL-STACK DEVELOPER — production systems, AI-assisted engineering" width="600" />
   <p><strong>Alejandro Padilla</strong> · Ecuador · Remote worldwide</p>
   <img src="assets/hero-pixel.png" alt="Pixel-art automation workspace connecting documents, AI models, code, databases, and backend infrastructure" width="100%" />
 </div>
@@ -13,7 +13,7 @@
 <br />
 
 <div align="center">
-  I turn repetitive processes into practical <strong>AI workflows</strong>, <strong>backend systems</strong>, and <strong>full-stack products</strong>.
+  I design, ship, and operate <strong>full-stack systems in production</strong> — <strong>FastAPI</strong> and <strong>Next.js</strong> services, asynchronous processing, and <strong>LLM-backed automation</strong> where it measurably removes manual work.
 </div>
 
 ## Selected Work
@@ -61,8 +61,8 @@ More evidence: [Hospital Appointment Inventory](https://github.com/AlejandroTatu
 ---
 
 <div align="center">
-  <h3>Have a workflow worth improving?</h3>
-  <p>Open to remote AI &amp; Automation Engineer roles worldwide.<br />Also available for selected freelance automation and software projects.</p>
+  <h3>Have a system worth building?</h3>
+  <p>Open to remote full-stack and backend engineering roles worldwide.<br />Currently available for part-time and contract work, with full overlap on US time zones.</p>
   <a href="https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/"><img src="assets/button-connect-linkedin.svg" alt="Connect with Alejandro Padilla on LinkedIn" height="34" /></a>&nbsp;
   <a href="https://alejandrotatum.github.io/"><img src="assets/button-view-portfolio.svg" alt="View Alejandro Padilla's portfolio" height="34" /></a>
 </div>

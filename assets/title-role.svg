@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="232" viewBox="0 0 900 232" role="img" aria-labelledby="title desc">
+  <title id="title">Full-Stack Developer</title>
+  <desc id="desc">Full-stack developer building production systems, with AI-assisted engineering.</desc>
+  <path d="M60 28H852V52H876V196H852V220H60V196H36V52H60Z" fill="#2D2A3E"/>
+  <path d="M48 12H840V36H864V180H840V204H48V180H24V36H48Z" fill="#B8F2E6" stroke="#2D2A3E" stroke-width="4"/>
+  <text x="444" y="100" text-anchor="middle" fill="#2D2A3E"
+        font-family="DejaVu Sans Mono, ui-monospace, SFMono-Regular, Consolas, monospace"
+        font-size="52" font-weight="700">FULL-STACK DEVELOPER</text>
+  <rect x="150" y="120" width="588" height="4" fill="#2D2A3E" opacity="0.35"/>
+  <text x="444" y="162" text-anchor="middle" fill="#2D2A3E"
+        font-family="DejaVu Sans Mono, ui-monospace, SFMono-Regular, Consolas, monospace"
+        font-size="21" font-weight="700">PRODUCTION SYSTEMS · AI-ASSISTED ENGINEERING</text>
+</svg>
