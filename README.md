@@ -1,68 +1,60 @@
-<div align="center">
-  <img src="assets/title-role.png" alt="FULL-STACK DEVELOPER — production systems, AI-assisted engineering" width="600" />
-  <p><strong>Alejandro Padilla</strong> · Ecuador · Remote worldwide</p>
-  <img src="assets/hero-pixel.png" alt="Pixel-art automation workspace connecting documents, AI models, code, databases, and backend infrastructure" width="100%" />
-</div>
+<a href="https://alejandrotatum.github.io/"><img src="./banner.svg" alt="Alejandro Padilla — full-stack developer · automation & AI agents — terminal hero with pixel self-portrait" width="100%"></a>
 
-<div align="center">
-  <a href="https://alejandrotatum.github.io/"><img src="assets/button-portfolio.svg" alt="Open Alejandro Padilla's portfolio" height="32" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/"><img src="assets/button-linkedin.svg" alt="Open Alejandro Padilla's LinkedIn profile" height="32" /></a>&nbsp;
-  <a href="https://github.com/AlejandroTatum?tab=repositories"><img src="assets/button-all-work.svg" alt="View all AlejandroTatum repositories" height="32" /></a>
-</div>
+<img src="https://img.shields.io/badge/status-open_to_work-382e45?style=flat-square&labelColor=201828" alt="status: open to work" title="open to work">&nbsp;
+<img src="https://img.shields.io/badge/focus-automation_·_ai_agents-382e45?style=flat-square&labelColor=201828" alt="focus: automation · AI agents">&nbsp;
+<img src="https://img.shields.io/badge/langs-es_·_en_(B2)-382e45?style=flat-square&labelColor=201828" alt="languages: Spanish native, English B2">&nbsp;
+<img src="https://img.shields.io/badge/location-ecuador_·_utc--5-382e45?style=flat-square&labelColor=201828" alt="location: Ecuador, UTC-5">
 
-<br />
+## `01` `$ neofetch`
 
-<div align="center">
-  I design, ship, and operate <strong>full-stack systems in production</strong> — <strong>FastAPI</strong> and <strong>Next.js</strong> services, asynchronous processing, and <strong>LLM-backed automation</strong> where it measurably removes manual work.
-</div>
+<img src="./neofetch.svg" alt="neofetch panel: os, role, focus, stack, studies and status" width="100%">
 
-## Selected Work
+## `02` `$ ls ~/selected-work`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://yolo-complexity-lab-unl.streamlit.app/"><img src="assets/project-yolo-pixel.png" alt="Pixel-art computer vision lab detecting an apple, robot, and wrench" width="100%" /></a><br />
-      <strong>YOLO Complexity Lab</strong><br />
-      <a href="https://yolo-complexity-lab-unl.streamlit.app/"><img src="assets/button-live-demo.svg" alt="Open YOLO Complexity Lab live demo" height="32" /></a>&nbsp;
-      <a href="https://github.com/AlejandroTatum/yolo-complexity-lab"><img src="assets/button-source.svg" alt="View YOLO Complexity Lab source" height="32" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://el-horno-del-pinguino-landing-page.pages.dev/"><img src="assets/project-horno-pixel.png" alt="Pixel-art bakery storefront connecting its product catalog to a mobile order" width="100%" /></a><br />
-      <strong>El Horno del Pingüino</strong><br />
-      <a href="https://el-horno-del-pinguino-landing-page.pages.dev/"><img src="assets/button-in-production.svg" alt="Open El Horno del Pingüino, in production" height="32" /></a>&nbsp;
-      <a href="#private-source"><img src="assets/button-private-source.svg" alt="Read why the El Horno del Pingüino source is private" height="32" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/AlejandroTatum/academic-report-automation"><img src="assets/project-reports-pixel.png" alt="Pixel-art pipeline transforming source material into a validated illustrated report" width="100%" /></a><br />
-      <strong>Academic Report Automation</strong><br />
-      <a href="https://github.com/AlejandroTatum/academic-report-automation"><img src="assets/button-view-source.svg" alt="View Academic Report Automation source" height="32" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/AlejandroTatum/AlejandroTatum.github.io"><img src="assets/project-portfolio-pixel.png" alt="Pixel-art responsive portfolio displayed across desktop, tablet, and mobile screens" width="100%" /></a><br />
-      <strong>AlejandroTatum.github.io</strong><br />
-      <a href="https://alejandrotatum.github.io/"><img src="assets/button-live-site.svg" alt="Open AlejandroTatum.github.io live site" height="32" /></a>&nbsp;
-      <a href="https://github.com/AlejandroTatum/AlejandroTatum.github.io"><img src="assets/button-source.svg" alt="View AlejandroTatum.github.io source" height="32" /></a>
-    </td>
-  </tr>
-</table>
+| ▸ [yolo-complexity-lab](https://yololab.streamlit.app/) | ▸ [el-horno-del-pinguino](https://el-horno-del-pinguino-landing-page.pages.dev/) |
+|:---:|:---:|
+| <a href="https://yololab.streamlit.app/"><img src="https://alejandrotatum.github.io/pixel/project-yolo-pixel.png" alt="YOLO Complexity Lab — pixel illustration" width="100%"></a> | <a href="https://el-horno-del-pinguino-landing-page.pages.dev/"><img src="https://alejandrotatum.github.io/pixel/project-horno-pixel.png" alt="El Horno del Pingüino — pixel illustration" width="100%"></a> |
+| **[YOLO Complexity Lab](https://yololab.streamlit.app/)** — end-to-end computer-vision lab to explore YOLO model complexity and deployment tradeoffs. [demo](https://yololab.streamlit.app/) · [source](https://github.com/AlejandroTatum/yolo-complexity-lab) | **[El Horno del Pingüino](https://el-horno-del-pinguino-landing-page.pages.dev/)** — end-to-end frontend for a local bakery: catalog, business orders and WhatsApp conversion. [demo](https://el-horno-del-pinguino-landing-page.pages.dev/) |
 
-<a name="private-source"></a><sub><strong>Private source:</strong> This business source is private; only the production implementation is public.</sub>
+▸ **[academic-report-automation](https://github.com/AlejandroTatum/academic-report-automation)** — Python toolkit that automates repetitive report production (HTML/PDF, IEEE-style reference checks) while preserving human review.
 
-More evidence: [Hospital Appointment Inventory](https://github.com/AlejandroTatum/hospital-appointment-inventory) · [SIGED](https://github.com/AlejandroTatum/siged), an academic teacher-test project · [all repositories](https://github.com/AlejandroTatum?tab=repositories)
+▸ **[AlejandroTatum.github.io](https://github.com/AlejandroTatum/AlejandroTatum.github.io)** — bilingual portfolio in two skins (pixel art + this terminal) — the site this README mirrors.
 
-## Toolkit
+## `03` `$ tree ./stack`
 
-<div align="center">
-  <img src="assets/stack-board.svg" alt="Engineering toolkit: Python, TypeScript, JavaScript, Java, Next.js, React, Node.js, PostgreSQL, Docker, Git, and Linux" width="100%" />
-</div>
+```text
+./stack
+├── automation-ai/   → Python · AI agents · document generation · validation workflows
+├── backend-data/    → Java · PostgreSQL · SQL · Prisma · Maven
+├── frontend/        → React · Next.js · Tailwind CSS · responsive UI
+└── delivery/        → Git · Docker · Linux · GitHub Actions · testing · docs
+```
+
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=ffd6a5&labelColor=201828&color=382e45" alt="Python">&nbsp;
+<img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=7ce8d8&labelColor=201828&color=382e45" alt="FastAPI">&nbsp;
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=7ce8d8&labelColor=201828&color=382e45" alt="TypeScript">&nbsp;
+<img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=eae3f0&labelColor=201828&color=382e45" alt="Next.js">&nbsp;
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=9fe8a8&labelColor=201828&color=382e45" alt="React">&nbsp;
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=c4b5fd&labelColor=201828&color=382e45" alt="PostgreSQL">&nbsp;
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=ff9ec7&labelColor=201828&color=382e45" alt="Docker">&nbsp;
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=ffd6a5&labelColor=201828&color=382e45" alt="Git">
+
+## `04` `$ stats --no-cache`
+
+<img src="./contribs.svg" alt="Contribution calendar, last 12 months — 80 active days, best day 154 on Aug 11, 27-day longest streak, average 48.7 per week" width="100%">
+
+<img src="https://streak-stats.demolab.com?user=AlejandroTatum&hide_border=false&background=131017&stroke=382e45&ring=ff9ec7&fire=ffd6a5&currStreakLabel=ff9ec7&sideLabels=a99dbb&dates=8b7fa6&currStreakNum=eae3f0&sideNums=eae3f0&locale=en" alt="GitHub streak: current and longest streaks" width="62%">
+
+## `05` `$ contact --list`
+
+[<img src="https://img.shields.io/badge/portfolio-alejandrotatum.github.io-382e45?style=flat-square&logo=googlechrome&logoColor=7ce8d8&labelColor=201828" alt="Portfolio">](https://alejandrotatum.github.io/)
+[<img src="https://img.shields.io/badge/linkedin-connect-382e45?style=flat-square&logo=linkedin&logoColor=7ce8d8&labelColor=201828" alt="LinkedIn">](https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/)
+[<img src="https://img.shields.io/badge/gmail-alejandro.padilla@unl.edu.ec-382e45?style=flat-square&logo=gmail&logoColor=ff9ec7&labelColor=201828" alt="Email">](https://mail.google.com/mail/?view=cm&fs=1&to=alejandro.padilla@unl.edu.ec&su=Software%20project%20or%20role%20-%20Alejandro%20Padilla)
+
+```text
+$ echo "open source, freelance and remote roles — replies in EN/ES"
+```
 
 ---
 
-<div align="center">
-  <h3>Have a system worth building?</h3>
-  <p>Open to remote full-stack and backend engineering roles worldwide.<br />Currently available for part-time and contract work, with full overlap on US time zones.</p>
-  <a href="https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/"><img src="assets/button-connect-linkedin.svg" alt="Connect with Alejandro Padilla on LinkedIn" height="34" /></a>&nbsp;
-  <a href="https://alejandrotatum.github.io/"><img src="assets/button-view-portfolio.svg" alt="View Alejandro Padilla's portfolio" height="34" /></a>
-</div>
+`alejandro@github.io:~$` ▊
