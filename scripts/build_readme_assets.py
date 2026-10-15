@@ -263,16 +263,21 @@ def build_card(rank: str, rank_color: str, name: str, context: str, host: str, t
 
 
 # -------------------------------------------------------------- buttons ----
-def build_button(runs, w: int, primary: bool, label: str, dot: bool = False) -> str:
+def build_button(runs, w: int, primary: bool, label: str, dot: bool = False, mail: bool = False) -> str:
     """Portfolio CTA button: primary is filled rose, secondary is a bracket button."""
     h = 52
     fill, stroke = (ROSE, ROSE) if primary else (PANEL, BORDER_BRIGHT)
-    total = text_width("".join(t for t, _ in runs), "mono", 16, 700) + (20 if dot else 0)
+    total = text_width("".join(t for t, _ in runs), "mono", 16, 700) + (20 if dot else 0) + (28 if mail else 0)
     x = (w - total) / 2
     body = [f'<rect x="1" y="1" width="{w - 2}" height="{h - 2}" rx="9" fill="{fill}" stroke="{stroke}" stroke-width="2"/>']
     if dot:
         body.append(f'<rect class="pulse" x="{x:.1f}" y="21" width="10" height="10" rx="2.5" fill="{BG}"/>')
         x += 20
+    if mail:
+        # envelope icon drawn as strokes (the mono font has no envelope glyph)
+        body.append(f'<rect x="{x:.1f}" y="18" width="19" height="14" rx="2" fill="none" stroke="{BG}" stroke-width="2"/>'
+                    f'<path d="M {x + 1:.1f} 19.5 L {x + 9.5:.1f} 26 L {x + 18:.1f} 19.5" fill="none" stroke="{BG}" stroke-width="2" stroke-linejoin="round"/>')
+        x += 28
     body.append(text(x, 32, runs, size=16, weight=700))
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="{label}">
 <title>{label}</title>
@@ -303,9 +308,7 @@ def main() -> None:
             "El Horno del Pingüino: live client storefront on elhornodelpinguino.com, built with Astro and a Next.js admin",
         ),
     }
-    assets["btn-hire.svg"] = build_button(
-        [("hire me ", BG), ("· part-time / contract", "#4a2438")], 360, True,
-        "Hire me: part-time or contract", dot=True)
+    assets["btn-email.svg"] = build_button([("email me", BG)], 190, True, "Email me", mail=True)
     assets["btn-portfolio.svg"] = build_button(
         [("[ ", FAINT), ("./portfolio ↗", CYAN), (" ]", FAINT)], 210, False, "Open the portfolio")
     assets["btn-linkedin.svg"] = build_button(

@@ -1,6 +1,6 @@
 <a href="https://alejandrotatum.github.io/"><img src="assets/readme/header.svg" width="100%" alt="Alejandro Padilla — Full-Stack Developer. From a business problem to a system in production. Stack: FastAPI, Next.js, PostgreSQL, Docker. Based in Ecuador, remote, US hours. Open to part-time and contract work."></a>
 
-<a href="mailto:alejandro.padilla@unl.edu.ec?subject=Software%20project%20or%20role%20-%20Alejandro%20Padilla"><img src="assets/readme/btn-hire.svg" height="52" alt="Hire me: part-time or contract (email)"></a>&nbsp;<a href="https://alejandrotatum.github.io/"><img src="assets/readme/btn-portfolio.svg" height="52" alt="Portfolio"></a>&nbsp;<a href="https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/"><img src="assets/readme/btn-linkedin.svg" height="52" alt="LinkedIn"></a>
+<a href="https://alejandrotatum.github.io/#contact"><img src="assets/readme/btn-email.svg" height="52" alt="Email me"></a>&nbsp;<a href="https://alejandrotatum.github.io/"><img src="assets/readme/btn-portfolio.svg" height="52" alt="Portfolio"></a>&nbsp;<a href="https://www.linkedin.com/in/alejandro-emanuel-padilla-espinoza-58003b408/"><img src="assets/readme/btn-linkedin.svg" height="52" alt="LinkedIn"></a>
 
 ## `$ ls ~/in-production`
 
