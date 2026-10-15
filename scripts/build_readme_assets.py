@@ -249,15 +249,37 @@ def build_card(rank: str, rank_color: str, name: str, context: str, host: str, t
         b.append(f'<rect x="{x}" y="{y}" width="{tw:.1f}" height="30" rx="4" fill="{PANEL}" stroke="{BORDER_BRIGHT}"/>')
         b.append(text(x + 11, y + 20, [(tag, DIM)], size=14))
         x += tw + 10
-    # site button
-    btn_y = H - 40 - 48
-    b.append(f'<rect x="40" y="{btn_y}" width="410" height="48" rx="6" fill="{PANEL}" stroke="{BORDER_BRIGHT}"/>')
-    b.append(text(245, btn_y + 30, [("[ ", FAINT), (f"open {host} ↗", CYAN), (" ]", FAINT)],
-                  size=16, weight=700, anchor="middle"))
+    # site button: filled call to action with the live dot
+    btn_y = H - 40 - 52
+    label_w = text_width(f"visit {host} ↗", "mono", 16, 700)
+    start = 245 - (label_w + 22) / 2
+    b.append(f'<rect x="40" y="{btn_y}" width="410" height="52" rx="8" fill="{CYAN}"/>')
+    b.append(f'<rect class="pulse" x="{start:.1f}" y="{btn_y + 21}" width="10" height="10" rx="2.5" fill="{BG}"/>')
+    b.append(text(start + 22, btn_y + 32, [(f"visit {host} ↗", BG)], size=16, weight=800))
     # preview window (screenshot from production)
     img_h = round(440 * img.height / img.width)
     b.append(mini_window(520, (H - 34 - img_h) / 2, 440, img_h, f"{host.upper()} — LIVE", shot_uri))
     return svg(label, W, H, "\n".join(b), fill=BG)
+
+
+# -------------------------------------------------------------- buttons ----
+def build_button(runs, w: int, primary: bool, label: str, dot: bool = False) -> str:
+    """Portfolio CTA button: primary is filled rose, secondary is a bracket button."""
+    h = 52
+    fill, stroke = (ROSE, ROSE) if primary else (PANEL, BORDER_BRIGHT)
+    total = text_width("".join(t for t, _ in runs), "mono", 16, 700) + (20 if dot else 0)
+    x = (w - total) / 2
+    body = [f'<rect x="1" y="1" width="{w - 2}" height="{h - 2}" rx="9" fill="{fill}" stroke="{stroke}" stroke-width="2"/>']
+    if dot:
+        body.append(f'<rect class="pulse" x="{x:.1f}" y="21" width="10" height="10" rx="2.5" fill="{BG}"/>')
+        x += 20
+    body.append(text(x, 32, runs, size=16, weight=700))
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="{label}">
+<title>{label}</title>
+{STYLE}
+{"".join(body)}
+</svg>
+"""
 
 
 def main() -> None:
@@ -281,6 +303,14 @@ def main() -> None:
             "El Horno del Pingüino: live client storefront on elhornodelpinguino.com, built with Astro and a Next.js admin",
         ),
     }
+    assets["btn-hire.svg"] = build_button(
+        [("hire me ", BG), ("· part-time / contract", "#4a2438")], 360, True,
+        "Hire me: part-time or contract", dot=True)
+    assets["btn-portfolio.svg"] = build_button(
+        [("[ ", FAINT), ("./portfolio ↗", CYAN), (" ]", FAINT)], 210, False, "Open the portfolio")
+    assets["btn-linkedin.svg"] = build_button(
+        [("[ ", FAINT), ("in ", ROSE), ("linkedin ↗", CYAN), (" ]", FAINT)], 210, False, "Open LinkedIn")
+
     for name, content in assets.items():
         (OUT / name).write_text(content)
         print(f"{name}: {len(content.encode()) / 1024:.0f} KB")
