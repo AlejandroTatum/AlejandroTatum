@@ -15,7 +15,7 @@ Storefront for an artisanal bakery with catalog and WhatsApp ordering, fed by an
 ## `$ ls ~/open-source`
 
 - [yolo-complexity-lab](https://github.com/AlejandroTatum/yolo-complexity-lab) — YOLO11n vs Faster R-CNN vs SSDLite benchmark with a [live demo](https://yololab.streamlit.app/).
-- [academic-report-automation](https://github.com/AlejandroTatum/academic-report-automation) — Markdown + YAML to university-grade PDF reports.
+- [academic-report-flow](https://github.com/AlejandroTatum/academic-report-flow) — Markdown + YAML to university-grade PDF reports.
 - [AlejandroTatum.github.io](https://github.com/AlejandroTatum/AlejandroTatum.github.io) — my portfolio: bilingual, terminal-style, static on GitHub Pages.
 
 ## `$ cat stack.txt`
